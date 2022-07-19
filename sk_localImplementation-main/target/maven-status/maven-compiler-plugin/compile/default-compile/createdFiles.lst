@@ -1,0 +1,4 @@
+configuration\ConfigurationStorage$ConfigurationBuilder.class
+com\komponente\skladista\LocalStorage.class
+com\komponente\skladista\User.class
+configuration\ConfigurationStorage.class

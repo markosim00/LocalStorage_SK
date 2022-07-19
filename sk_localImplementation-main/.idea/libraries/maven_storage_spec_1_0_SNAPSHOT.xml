@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-storage-spec-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../StorageSpec_DP_MS/target/maven-storage-spec-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
